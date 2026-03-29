@@ -151,7 +151,7 @@ LAURA was originally developed for Brazil's **Tribunal de Contas da União (TCU)
 
 This kit is provided for use by Supreme Audit Institutions. When deploying LAURA, please credit:
 
-> LAURA (Logical Audit Understanding & Review Assistant) — originally developed for TCU (Brazil), internationalised for the INTOSAI community.
+> LAURA (Logical Audit Understanding & Review Assistant) — originally developed by ANDRE L. A. FARIAS for SAI Brazil, internationalised for the INTOSAI community.
 
 ---
 
